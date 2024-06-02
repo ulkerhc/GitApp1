@@ -7,6 +7,8 @@ public class Runner {
 
         //version4
         System.out.println("hi");
+        //version7
+        System.out.println("kl");
 
     }
 }
