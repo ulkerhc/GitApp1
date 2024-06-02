@@ -5,11 +5,5 @@ public class Runner {
         System.out.println("hello GIT");
         System.out.println("git add. staging area ya alir" );
 
-        //version2
-        System.out.println("git commit -m ile version olusturdum");
-
-
-        //version3
-        System.out.println("gecmishe yolculuk");
     }
 }
